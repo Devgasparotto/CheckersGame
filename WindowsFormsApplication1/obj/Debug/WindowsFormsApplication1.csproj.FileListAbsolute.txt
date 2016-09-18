@@ -1,0 +1,11 @@
+C:\Data\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Data\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Data\CheckersOfficial\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Data\CheckersOfficial\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Data\CheckersOfficial\WindowsFormsApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.boardForm.resources
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Data\CheckersOfficial\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
